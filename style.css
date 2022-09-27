@@ -88,9 +88,23 @@ header{
     font-size: 3em;
     color: #fff;
     margin-bottom: 10px;
+    scroll-behavior: smooth 56s;
+
 }
 .sec p{
     font-size: 1em;
     color: #fff;
     font-weight: 300;
+}
+
+#btn-resumo{
+    border: 0;
+    padding: 10px;
+    width: 200px;
+    height: 50px;
+    display: inline-block;
+    margin-left: 45%;
+    cursor: pointer;
+    border-radius: 4px;
+    
 }
